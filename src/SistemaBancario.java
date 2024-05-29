@@ -22,7 +22,7 @@ public class SistemaBancario {
         System.out.println("Digite seu saldo");
         double saldo =scanner.nextDouble();
 
-        System.out.println("Olá " +nome+" "+sobreNome+"! Obrigado por criar uma conta em nosso banco. Sua Agência é: " +agencia+". Conta: " +conta+ ". E seu saldo de: " +saldo+ " Já está disponivel para saque!");
+        System.out.println("Olá " +nome+" "+sobreNome+"! Obrigado por criar uma conta em nosso banco. Sua Agência é: " +agencia+". Conta: " +conta+ ". "+"E seu saldo de: " +saldo+ " Já está disponivel para saque!");
 
     }
     
